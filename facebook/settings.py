@@ -25,7 +25,7 @@ SECRET_KEY = '0_j!=69%s743&vk#lfq@%xub^gj*glp9a5sr-*u%#ju#@*%jn3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['baabtrafacebook.herokuapp.com']
 
 
 # Application definition
